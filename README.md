@@ -1,4 +1,4 @@
-## Olá eu sou a Marcelo M S Silva, sejam todos muito bem vindos aqui no meu Github!
+## Olá eu sou Marcelo M S Silva, sejam todos muito bem vindos aqui no meu Github!
 <div align="center">
   <a href="https://github.com/marcieldss">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcieldss&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
